@@ -1,0 +1,13 @@
+Collecting cython
+  Obtaining dependency information for cython from https://files.pythonhosted.org/packages/fd/10/236fcc0306f85a2db1b8bc147aea714b66a2f27bac4d9e09e5b2c5d5dcca/Cython-3.0.11-cp311-cp311-win_amd64.whl.metadata
+  Downloading Cython-3.0.11-cp311-cp311-win_amd64.whl.metadata (3.2 kB)
+Collecting blosc2~=2.0.0
+  Obtaining dependency information for blosc2~=2.0.0 from https://files.pythonhosted.org/packages/03/d0/685258d475e09d8884d64c8a1eb90a3428fbba782e60b7926f9fdb82c297/blosc2-2.0.0-cp311-cp311-win_amd64.whl.metadata
+  Downloading blosc2-2.0.0-cp311-cp311-win_amd64.whl.metadata (11 kB)
+Requirement already satisfied: msgpack in c:\users\penzi\anaconda3\lib\site-packages (from blosc2~=2.0.0) (1.0.3)
+Downloading Cython-3.0.11-cp311-cp311-win_amd64.whl (2.8 MB)
+   ---------------------------------------- 2.8/2.8 MB 167.4 kB/s eta 0:00:00
+Downloading blosc2-2.0.0-cp311-cp311-win_amd64.whl (1.9 MB)
+   ---------------------------------------- 1.9/1.9 MB 117.1 kB/s eta 0:00:00
+Installing collected packages: cython, blosc2
+Successfully installed blosc2-2.0.0 cython-3.0.11
